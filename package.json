@@ -1,0 +1,30 @@
+{
+  "name": "@ursuarez/massconverter",
+  "version": "0.1.0",
+  "description": "Convierte unidades de peso [kilogramos a libras] y viceversa",
+  "main": "dist/src/massconverter.js",
+  "scripts": {
+    "build": "babel src/massconverter.js -d dist",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ursuarez/massConverter.git"
+  },
+  "keywords": [
+    "mass",
+    "converter"
+  ],
+  "author": "Ricardo Suarez <ur.suarez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ursuarez/massConverter/issues"
+  },
+  "homepage": "https://github.com/ursuarez/massConverter#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
