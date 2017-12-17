@@ -11,7 +11,7 @@ Modulo que convierte unidades de peso.
 	npm install @ursuarez/massconverter
 ```
 
-##Uso
+## Uso
 ```
 	import { kgToPounds, poundsToKg } from '@ursuarez/massconverter'
 
