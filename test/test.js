@@ -1,6 +1,6 @@
 const expect = require('chai').expect
 const toKilogramos = require('..').toKilogramos
-const toLibras = require('..').toLibras
+const toLibras     = require('..').toLibras
 
 describe('#massConverter', function () {
 	it('Transformacion de kilogramos a libras', function () {

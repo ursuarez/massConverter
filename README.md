@@ -13,7 +13,7 @@ Modulo que convierte unidades de peso.
 
 ## Uso
 ```
-	import { kgToPounds, poundsToKg } from '@ursuarez/massconverter'
+	import { toKilogramos, toLibras } from '@ursuarez/massconverter'
 
 	toKilogramos(20) // 9.07184
 	toLibras(20)     // 44.0924
