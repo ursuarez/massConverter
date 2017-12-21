@@ -1,6 +1,6 @@
 {
   "name": "@ursuarez/massconverter",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Convierte unidades de peso [kilogramos a libras] y viceversa",
   "main": "dist/src/massconverter.js",
   "scripts": {
