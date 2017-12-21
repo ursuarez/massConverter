@@ -2,9 +2,9 @@
 
 Modulo que convierte unidades de peso.
 
-## Descripcion de la conversion
-- Permite la conversion de kilogramos a libras
-- Permite la conversion de libras a kilogramos
+## Descripcion de la conversión
+- Permite la conversión de kilogramos a libras
+- Permite la conversión de libras a kilogramos
 
 ## Instalación 
 ```
